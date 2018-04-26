@@ -1,7 +1,7 @@
 # Mandatory settings
 
 blog_theme: light # Or use dark
-name: On the Conduct of Life
+name: On The Conduct of Technology
 paginate: 25
 url: https://kmakihara.github.io # add your site url (format: https://example.com)
 
